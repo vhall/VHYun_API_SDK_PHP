@@ -99,4 +99,4 @@ var_dump($resultCreate);
 The MIT License (MIT).详情见 [License文件](https://github.com/vhall/VHYun_API_SDK_PHP/blob/master/LICENSE).
 
 [packagist]: http://packagist.org
-[install-packagist]: https://packagist.org/packages/vhall/VHYun_API_SDK_PHP
+[install-packagist]: https://packagist.org/packages/vhall/paas_sdk
