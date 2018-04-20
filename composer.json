@@ -1,0 +1,19 @@
+{
+	"name": "vhall/paas_sdk",
+	"description": "PaaS web api sdk of php",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Yan.Gao",
+			"email": "yan.gao@vhall.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"paas\\": "src/paas/"
+		}
+	}
+}
